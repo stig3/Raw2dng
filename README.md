@@ -1,4 +1,6 @@
-# Raw2dng_Raspberrypi
+# Raw2dng build for Raspberrypi
+### Modify Code for Raspberrypi & other Arm based board  
+
 Linux utility for converting raw photo files into DNG, TIFF and JPEG formats.
 
 While this will happily convert most raw formats, it is especially optimised 
