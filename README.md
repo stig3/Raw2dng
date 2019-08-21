@@ -29,13 +29,5 @@ Install dependencies:
 ```
 sudo apt-get install libraw-dev libexiv2-dev libz-dev libexpat-dev libjpeg-dev
 ```
-
-Apply patches:
-```
-patch -p0 < patches/CMakeLists.txt.patch
-patch -p0 < patches/negativeProcessor.cpp.patch
-patch -p0 < patches/rawConverter.h.patch
-```
-
 Compile.
 
